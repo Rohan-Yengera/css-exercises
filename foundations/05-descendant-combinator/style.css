@@ -1,0 +1,6 @@
+.container .text{       /* Can be "div .text", "div p", ".container p" as well*/
+    background-color: #FFFF00;
+    color: #FF0000;
+    font-size: 20px;
+    text-align: center;
+}

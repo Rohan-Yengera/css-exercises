@@ -1,0 +1,20 @@
+.odd{
+    background-color: #FFA8B5;
+    font-family: verdana, "dejavu Sans", sans-serif;
+}
+
+.extra{
+    font-size: 24px;
+}
+
+#first{
+    color: #2927b1f1;
+    font-size: 36px;
+
+}
+
+#second{
+    background-color: #90ee90;
+    /*font-size: 24px;   Use the "extra" class to reduce this code*/
+    font-weight: 700;
+}
