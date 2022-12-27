@@ -28,7 +28,7 @@ input {
 
 /*Solution*/
 
-.body {
+body {
   display: flex;
   flex-direction: column;
 }
